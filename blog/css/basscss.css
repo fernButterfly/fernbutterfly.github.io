@@ -876,7 +876,8 @@ hr{
   border-bottom-color:#ccc;
 }
 
-footer{
+footer,
+footer a{
   color:#ddd;
   background-color:#f02872;
   min-height:10rem;
