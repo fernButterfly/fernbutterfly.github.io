@@ -812,6 +812,7 @@ svg{
 
 a{
   color:#f02872;
+  text-decoration:none;
 }
 
 h1, h2, h3,
@@ -873,4 +874,10 @@ hr{
   border-bottom-width:1px;
   border-bottom-style:solid;
   border-bottom-color:#ccc;
+}
+
+footer{
+  color:#ddd;
+  background-color:#f02872;
+  min-height:10rem;
 }
